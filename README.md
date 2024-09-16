@@ -29,3 +29,12 @@ Before writing any custom rules, you probably want to add a number in front of e
 6. The custome rule is about "ping" a device is online or not
 <p align="center">
 <img src="https://imgur.com/0kcUwR0.png" height="80%" width="80%" >
+
+7. Check the terminal if you run step 5 showing a remote IP try to ping the host
+<p align="center">
+<img src="https://imgur.com/frTgn81.png" height="80%" width="80%" >
+
+8. Add another rule for SSH connection
+<p align="center">
+<img src="https://imgur.com/9xfGssj.png" height="80%" width="80%" >
+
