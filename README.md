@@ -18,4 +18,6 @@ Before writing any custom rules, you probably want to add a number in front of e
 <p align="center">
 <img src="https://imgur.com/ucBS4SI.png" height="80%" width="80%" >
   
-4. 
+4. After open the text editor, enter the following command
+<p align="center">
+<img src="https://imgur.com/nqWmzFw.png" height="80%" width="80%" >
