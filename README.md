@@ -21,3 +21,8 @@ Before writing any custom rules, you probably want to add a number in front of e
 4. After open the text editor, enter the following command
 <p align="center">
 <img src="https://imgur.com/nqWmzFw.png" height="80%" width="80%" >
+
+5. Let's test the custom rule just created by the following command
+<p align="center">
+<img src="https://imgur.com/9piWQaL.png" height="80%" width="80%" >
+
