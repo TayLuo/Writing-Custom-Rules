@@ -38,3 +38,6 @@ Before writing any custom rules, you probably want to add a number in front of e
 <p align="center">
 <img src="https://imgur.com/9xfGssj.png" height="80%" width="80%" >
 
+9. Here are the response from the SSH connection rule
+<p align="center">
+<img src="https://imgur.com/8SeWfOM.png" height="80%" width="80%" >
