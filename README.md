@@ -26,3 +26,6 @@ Before writing any custom rules, you probably want to add a number in front of e
 <p align="center">
 <img src="https://imgur.com/9piWQaL.png" height="80%" width="80%" >
 
+6. The custome rule is about "ping" a device is online or not
+<p align="center">
+<img src="https://imgur.com/0kcUwR0.png" height="80%" width="80%" >
